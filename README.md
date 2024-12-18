@@ -1,3 +1,7 @@
+<h1 align="center">
+~~DEPRECATED~~
+</h1>
+
 # Sneaker Price Scraper
 
 This project consists of a set of Python scripts designed to scrape sneaker prices from various popular sneaker marketplaces. The scripts retrieve data from Bot, Hypeboost, Restocks, and StockX, allowing users to compare prices across different platforms.
